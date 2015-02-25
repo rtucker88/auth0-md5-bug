@@ -1,6 +1,6 @@
 # Setup
-npm install
-npm install -g webpack
+* npm install
+* npm install -g webpack
 
 Add your keys at the top of the app.js file.
 
