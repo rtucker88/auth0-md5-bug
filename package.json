@@ -1,0 +1,32 @@
+{
+  "name": "auth0-md5-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtucker88/auth0-md5-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtucker88/auth0-md5-bug/issues"
+  },
+  "homepage": "https://github.com/rtucker88/auth0-md5-bug",
+  "devDependencies": {
+    "auth0-lock": "^7.1.5",
+    "babel-core": "^4.5.1",
+    "babel-loader": "^4.0.0",
+    "brfs": "^1.4.0",
+    "ejsify": "^1.0.0",
+    "json-loader": "^0.5.1",
+    "json5": "^0.4.0",
+    "json5-loader": "^0.6.0",
+    "packageify": "^0.2.2",
+    "transform-loader": "^0.2.1",
+    "webpack": "^1.6.0"
+  }
+}
